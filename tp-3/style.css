@@ -1,0 +1,87 @@
+/* body {
+    font-size: 18px;
+    background-color: #ffe;
+    color: #210;
+}
+
+#contenedor {
+    max-width: 40ch;
+    margin: 2rem auto;
+    padding: 1rem;
+}
+
+h1 {
+    font-size: 2rem;
+    text-align: center;
+}
+
+p {
+    font-family: serif;
+}
+
+#primer-parrafo {
+    font-size: 1.3rem;
+    background-color:  #CEE;
+}
+
+#primer-parrafo em{
+    background-color: #933;
+} 
+
+p.importante em {
+    font-weight: bold;
+    color: #144;
+}
+
+p.novelas a {
+    outline: none;
+    text-decoration: none;
+}
+p.novelas a:hover {
+    text-decoration: underline;
+    background-color: #ccd;
+}
+
+body p.fuente.parrafo {
+    color: #000 !important;
+    font-size: 0.9rem;
+    opacity: 100%;
+    text-align: center;
+}
+
+a{
+    outline: 1px solid #333
+}
+ */
+
+h1.titulo{
+    text-align: center;
+}
+
+p.parrafo{
+    font-family: serif;
+}
+
+p#primer-parrafo.parrafo.importante{
+    background-color:  #CEE;
+}
+
+p#primer-parrafo.importante.parrafo em{
+    background-color: #933;
+}
+
+p a{
+    outline: 1px solid #333;
+}
+
+p.fuente.parrafo a{
+    opacity: 100%;
+}
+
+html body p.fuente.parrafo{
+    color: #000 !important;
+}
+
+html body p.novelas.parrafo .complicado{
+    color:  #C62 !important;
+}
