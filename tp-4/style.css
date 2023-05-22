@@ -23,7 +23,7 @@
   }
 
   @media print {
-    article h1 p {
+    p {
       font-family: sans-serif;
     }
   }
